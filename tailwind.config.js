@@ -7,9 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      lineHeight: {
+        130: "130%",
+        133: "133%",
+        170: "170%",
+      },
+      fontSize: {
+        "custom-xl": "30px",
       },
     },
   },
