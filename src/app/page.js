@@ -1,9 +1,9 @@
-import Sreategic from "@/components/Sreategic";
+import Pausebtn from "@/components/landing/Pausebtn";
 
 export default function Home() {
   return (
     <>
-      <Sreategic />
+      <Pausebtn/>
     </>
   );
 }

@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  background-color: #000c24;
-}
-
 @font-face {
   font-family: "AeonikTRAIL";
   src: url("/assets/fonts/AEONIK-REGULAR.TTF");
